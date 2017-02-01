@@ -1,5 +1,4 @@
 # hello-world
-Tutorial
 
 Hi Humans!
 
